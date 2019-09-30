@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+
+ <html>
+
+ <head> 
+
+<title>Связь</title>
+
+</head>
+
+ <body>
+
+<h1>Как со мной связатся:</h1>
+
+<ul>
+
+<li><h2><p><a href="https://www.facebook.com/htmlshik?__nodl" target="_blank">Facebook</a></p></h></li>
+
+<li><h2><p><a href="tel:+380985843657">Позвонить мне</a></p></h2></li>
+
+<li><h2><p><a href="mailto:htmlshik@gmail.com">Написать мне на email</a></p></h2></li>
+
+</ul>
+
+</body>
+
+</html>
+
